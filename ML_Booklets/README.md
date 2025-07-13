@@ -6,7 +6,7 @@
 - تفاوت دیگر: جوپیتر امکان دیدن خروجی باکس را در زیر خودش فراهم میکنه که بنظرم قابلیت بسیار خوبی برای کد نویسی در ماشین لرنینگ محسوب میشه.
 
 
-- ابتدا فایل به نام MachineLearning_Prerequisites_and_Scikit-learn.pdf و سپس Learn_machine1 و بعد  Learn_machine2_housing و بعد ... شود 
+- ابتدا فایل به نام MachineLearning_Prerequisites_and_Scikit-learn.pdf و سپس Learn_machine1 و بعد  Learn_machine2_housing و بعد ... خوانده شود 
 
 
   1- MachineLearning_Prerequisites_and_Scikit-learn.pdf
