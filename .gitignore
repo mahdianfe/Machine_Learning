@@ -1,0 +1,27 @@
+# Ignore IDE files
+.idea/
+ML_Projects/.idea/
+ML_Projects/P1_email_spam_detector/.idea/
+ML_Projects/P2_credit_card_fraud_detection_project/.idea/
+ML_Booklets/.idea/
+
+# Ignore large data folders
+ML_Projects/P2_credit_card_fraud_detection_project/data/
+ML_Projects/P1_email_spam_detector/data/   
+
+# Ignore Python virtual environments
+Machine_Learning/venv_ML/
+
+# Common ignores for Python projects
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+*.csv
+*.bz2
+
+
+ML_Projects/P1_email_spam_detector/data/easy_ham
+ML_Projects/P1_email_spam_detector/data/spam
+ML_Projects/P2_credit_card_fraud_detection_project/data/processed
+ML_Projects/P2_credit_card_fraud_detection_project/data/raw

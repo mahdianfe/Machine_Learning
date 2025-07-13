@@ -1,0 +1,4 @@
+Model | Accuracy | F1
+Logistic Regression | 0.9762 | 0.0000
+Random Forest | 0.9996 | 0.0000
+SVM | 0.9993 | 0.0000
